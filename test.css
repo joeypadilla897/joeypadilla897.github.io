@@ -1,0 +1,138 @@
+
+
+Header {
+    background-color: #fff;
+    width: 100%;
+    height: 100px;
+}
+
+Header .header-name {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 24px;
+    font-weight: 900px;
+    color: black;
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    padding: 20px 0;
+}
+header nav ul {
+    display: block;
+    margin: 0 auto;
+    width: fit-content;
+
+}
+header nav ul li {
+    display: inline-block;
+    float: left;
+    list-style: none;
+    padding: 0 16px;
+    
+}
+header nav ul li a {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 16px;
+    color: black;
+    
+}
+.Banner {
+    width: 100%;
+    height: calc(100vh - 100px);
+    background-color: gold;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    display: table;
+}
+.center {
+    display: table-cell;
+    vertical-align: middle;
+}
+.Banner h2 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 60px;
+    font-weight: 900;
+    color: white;
+    text-align: center;
+    text-shadow: 2px 2px 8px black;
+
+}
+.Banner h1 {
+    font-family: cormorant garamond;
+    font-size: 28px;
+    font-weight: 100;
+    font-style: italic;
+    line-height: 40px;
+    color: white;
+    text-align: center;
+    text-shadow: 2px 2px 8px black;
+
+}
+.links div {
+    margin: 16px 16px 0;
+    width: calc(100% - 36px);
+    height: 100px;
+    background-color: #f2f2f2;
+}
+.links div h3 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 28px;
+    font-weight: 100;
+    line-height: 100px;
+    color: #111;
+    text-align: center;
+    text-transform: uppercase;
+}
+footer {
+    width: calc(100% - 80px);
+    padding: 40px 40px;
+    margin-top: 20px;
+    background-color: #111;
+}
+footer ul {
+    width: fit-content;
+    float: left;
+    padding-left: 20px;
+    
+}
+footer ul li {
+    display: block;
+    list-style: none;
+}
+footer ul li a {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 16px;
+    color: #111;
+}
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
